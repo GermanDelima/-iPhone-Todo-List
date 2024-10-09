@@ -7,14 +7,14 @@ const themeToggle = document.getElementById("theme-toggle");
 const defaultTasks = [
 	{
 		id: 1,
-		text: "Programar",
+		text: "Create a Pen",
 		completed: false,
 		progress: 0,
 		dueDate: "2024-09-30"
 	},
 	{
 		id: 2,
-		text: "Dar un paseo",
+		text: "Go for a walk",
 		completed: false,
 		progress: 10,
 		dueDate: "2024-12-31"
